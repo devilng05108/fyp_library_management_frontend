@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e380e5632ca0792a28403a3b3e79871c",
+    "revision": "69fc3b0e77253dc4c15c92f7d8871f26",
     "url": "/fyp_library_management_frontend/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fyp_library_management_frontend/static/css/3.ac834766.chunk.css"
   },
   {
-    "revision": "670363934fe0aba01b2d",
+    "revision": "ef37eb5a1cf4ff5193c8",
     "url": "/fyp_library_management_frontend/static/css/main.14ac8e4c.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fyp_library_management_frontend/static/js/3.2a51f367.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "670363934fe0aba01b2d",
-    "url": "/fyp_library_management_frontend/static/js/main.d5233e35.chunk.js"
+    "revision": "ef37eb5a1cf4ff5193c8",
+    "url": "/fyp_library_management_frontend/static/js/main.b3012328.chunk.js"
   },
   {
     "revision": "42c9f8eacc665958172e",
